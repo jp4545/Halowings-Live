@@ -2159,7 +2159,7 @@ h1, h2, h3, h4, h5, h6 {
   .bg{
     height:550px;
     background-repeat: no-repeat;
-    background-size: 100% 100% !important;
+    background-size: 400px 100% !important;
   }
 }
 
