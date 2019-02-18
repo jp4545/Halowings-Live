@@ -2155,6 +2155,14 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+@media screen and (max-width: 692px) {
+  .bg{
+    height:550px;
+    background-repeat: no-repeat;
+    background-size: 100% 100% !important;
+  }
+}
+
 @media (max-width: 991px) {
   .default-banner h1 br {
     display: none;
